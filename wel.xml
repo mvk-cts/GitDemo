@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <bookstore>  
   <book category="COOKING">  
     <title lang="en">Everyday Italian</title>  
@@ -18,3 +19,13 @@
     <price>39.95</price>  
   </book>  
 </bookstore>  
+||||||| 7163e5f
+=======
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<note>  
+  <to>Tove</to>  
+  <from>Jani</from>  
+  <heading>Reminder</heading>  
+  <body>Don't forget me this weekend!</body>  
+</note>  
+>>>>>>> GitWork

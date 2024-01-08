@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <bookstore>
   <book category="children">
     <title>Harry Potter</title>
@@ -12,3 +13,9 @@
     <price>39.95</price>
   </book>
 </bookstore>
+||||||| d18ed47
+=======
+<xml>
+	<h1>Hello! Its an xml file</h1>
+</xml>
+>>>>>>> GitWork
